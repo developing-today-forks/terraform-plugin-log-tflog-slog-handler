@@ -1,4 +1,4 @@
-module github.com/developing-today-forks/terraform-provider-log-tflog-slog-handler
+module github.com/developing-today-forks/terraform-plugin-log-tflog-slog-handler
 
 go 1.21
 
